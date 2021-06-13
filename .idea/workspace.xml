@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4672a863-5d07-4570-8b75-f233600160ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_recipe_source_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_find_scale_factor_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_find_scale_factor_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_find_scale_factor_v3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
