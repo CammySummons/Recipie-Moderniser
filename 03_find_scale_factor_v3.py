@@ -27,10 +27,10 @@ keep_scale_factor = False
 while not keep_scale_factor:
 
     # Get serving size
-    serving_size = float(input("What is the recipe serving size?"))
+    serving_size = num_check("What is the recipe serving size? ")
 
     # Get desired number of servings
-    desired_size = float(input("How many servings are needed?"))
+    desired_size = num_check("How many servings are needed? ")
 
     # Calculate scale factor
     scale_factor = desired_size / serving_size
