@@ -160,7 +160,8 @@ def unit_checker(raw_unit):
     cup = ["c", "cup", "cups"]
     pint = ["p", "pt", "fl pt", "pint", "pints", "pt."]
     quart = ["q", "qt", "fl", "qt.", "quart", "quarts"]
-    ml = ["milliliter", "millilitre", "cc", "mL", "milliliters", "millilitres", "mls"]
+    ml = ["milliliter", "millilitre", "cc", "mL",
+          "milliliters", "millilitres", "mls"]
     litre = ["liter", "litre", "L", "liters", "litres"]
     decilitre = ["deciliter", "decilitre", "dL", "deciliters", "decilitres"]
     pound = ["lb", "lbs", "#", "pound", "pounds", "lb.", "lbs."]
