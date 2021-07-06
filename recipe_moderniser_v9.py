@@ -94,7 +94,7 @@ def get_scale_factor():
             else:
                 factor = get_scale_factor()
 
-        elif scale_factor > 4:
+        elif factor > 4:
             print("Scale factor is {}".format(scale_factor))
             print("Warning: This scale factor is quite large so you\n"
                   "might have issues with mixing bowl volumes and oven space."
